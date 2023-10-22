@@ -47,7 +47,7 @@ int convMinMaj(char * c){
 int lectureFichier(){
     // Ouverture du fichier en mode lecture
     FILE* f = NULL;
-    f=fopen("/home/julien/Documents/test.txt","r");
+    f=fopen("./test.txt","r");
 
     // Vérification de l'ouverture du fichier
     if(f == NULL){
