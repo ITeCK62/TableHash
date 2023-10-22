@@ -1,3 +1,9 @@
+/*
+ * TP4 Algo4
+ *
+ * @author Julien Cointe
+ */
+ 
 #include <stdio.h>
 
 // Fonction pour vérifier si une lettre est minuscule
